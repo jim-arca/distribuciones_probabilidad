@@ -44,7 +44,7 @@ st.markdown("""
 - Si $X \sim \chi^2(k_1)$ y $Y \sim \chi^2(k_2)$ $\to$ $\frac{X/k_1}{Y/k_2} \sim$ **Distribución F**. (La base de ANOVA).
 """)
 
-st.subheader("5. Las "Otras" Fundamentales")
+st.subheader("5. Las 'Otras' Fundamentales")
 st.markdown("""
 - Si todo es igualmente probable en $[a, b]$ $\to$ **Distribución Uniforme** (Discreta o Continua).
 - Si modelas una **probabilidad** o **proporción** (un valor en $[0, 1]$) $\to$ **Distribución Beta**. (Beta(1, 1) es la Uniforme).
