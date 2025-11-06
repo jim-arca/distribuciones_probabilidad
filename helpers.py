@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 # y no tengamos que repetir código.
 
 @st.cache_data
-def plot_discrete_distribution(dist_obj, k_values, title):
+def plot_discrete_distribution(_dist_obj, k_values, title):
     """
     Genera un gráfico de barras (PMF) para una distribución discreta.
     
